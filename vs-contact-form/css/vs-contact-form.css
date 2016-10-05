@@ -1,0 +1,8 @@
+#vs-contact-form {padding:24px;font-size:1.1em;}
+#vs-contact-form div.pure-g label {text-align:left;color:#fff;}
+#vs-contact-form div.pure-g div {margin-top:12px;}
+#vs-contact-form fieldset legend {color:#fff;}
+#vs-contact-form div.pure-controls {padding-top:24px;text-align:center;}
+#vs-contact-form div.g-recaptcha div {margin:auto;margin-top:24px;}
+#vs-contact-form textarea {color:#000;}
+#vs-contact-form img.contact-form-load {display:none;}
